@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp001</string>
+    <string name="custom_button">Custom Button</string>
+    <string name="tapped">Tapped : </string>
+    <string name="button">Button</string>
+    <string name="image">Paris</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name = "noteImages">
+        <item>@drawable/c7</item>
+        <item>@drawable/c9</item>
+        <item>@drawable/cadd9</item>
+        <item>@drawable/caddf9</item>
+        <item>@drawable/cadds9</item>
+        <item>@drawable/caug</item>
+        <item>@drawable/caugf7</item>
+        <item>@drawable/caugma7</item>
+        <item>@drawable/cdim</item>
+        <item>@drawable/cdim7</item>
+        <item>@drawable/cm7f5</item>
+        <item>@drawable/cma7</item>
+        <item>@drawable/cma7f9</item>
+        <item>@drawable/cma7s9</item>
+        <item>@drawable/cmi7</item>
+        <item>@drawable/csus4</item>
+    </array>
+</resources>

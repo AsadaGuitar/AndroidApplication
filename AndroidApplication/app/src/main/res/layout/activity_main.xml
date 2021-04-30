@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#ffffff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/TitleLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="240dp"
+        android:fontFamily="sans-serif-light"
+        android:text="Read Code"
+        android:textColor="#000000"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/StartButtton"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="450dp"
+        android:fontFamily="sans-serif-medium"
+        android:backgroundTint="@color/white"
+        android:elevation="20dp"
+        android:textColor="@color/black"
+        android:text="Start"
+        android:textSize="20dp" />
+</RelativeLayout>
